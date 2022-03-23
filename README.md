@@ -6,6 +6,8 @@
 
 All tests pass ✔️
 
+![Screenshot of passing tests in Windows Terminal](https://github.com/joe-dev-public/fac-datacamp-coding-test/blob/main/test-screenshot-1.png)
+
 ---
 
 Original challenge instructions can be found here: https://github.com/datacamp-engineering/coding-test-simulate-a-robot
